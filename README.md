@@ -1,4 +1,4 @@
-# ES and Common JS modules
+# Node.js - ES and Common JS modules
 
 ## Things covered
 
@@ -11,6 +11,10 @@
 ```
 Error [ERR_REQUIRE_ESM]: require() of ES Module xyz.js from abc.js not supported.
 Instead change the require of mod-esm.js in abc.js to a dynamic import() which is available in all CommonJS modules.
+```
+```
+(node:10957) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+
 ```
 
 ## Install
