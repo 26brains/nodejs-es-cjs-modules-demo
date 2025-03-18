@@ -1,5 +1,9 @@
 # Node.js - ES and Common JS modules
 
+## YouTube tutorial
+
+https://www.youtube.com/watch?v=MCslD_9TJWk
+
 ## Things covered
 
 - es modules: https://nodejs.org/api/esm.html
